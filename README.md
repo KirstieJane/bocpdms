@@ -1,7 +1,7 @@
 # BOCPDMS: Bayesian On-line Changepoint Detection with Model Selection
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 
-This repository contains code from the _Bayesian On-line Changepoint Detection with Model Selection_ project.
+This repository contains code from the _Bayesian On-line Changepoint Detections with Model Selection_ project.
 
 ## Introduction to BOCPDMS
 
@@ -33,14 +33,16 @@ You can keep track of our progress through the Issues tab, and find out more abo
 
 _Installation and usage instructions will be available shortly..._
 
+
 ## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+Thank you to the following wonderful people for their hard work.
+We use the [emoji key](https://github.com/kentcdodds/all-contributors#emoji-key) to describes all the different ways in which they have contributed to this project.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars1.githubusercontent.com/u/3626306?v=4" width="100px;"/><br /><sub><b>Kirstie Whitaker</b></sub>](https://whitakerlab.github.io)<br />[📖](https://github.com/alan-turing-institute/bocpdms/commits?author=KirstieJane "Documentation") [🔍](#fundingFinding-KirstieJane "Funding Finding") | [<img src="https://avatars1.githubusercontent.com/u/25640708?v=4" width="100px;"/><br /><sub><b>Louise Bowler</b></sub>](https://github.com/LouiseABowler)<br />[💻](https://github.com/alan-turing-institute/bocpdms/commits?author=LouiseABowler "Code") [📖](https://github.com/alan-turing-institute/bocpdms/commits?author=LouiseABowler "Documentation") [📢](#talk-LouiseABowler "Talks") [⚠️](https://github.com/alan-turing-institute/bocpdms/commits?author=LouiseABowler "Tests") | [<img src="https://avatars3.githubusercontent.com/u/21147592?v=4" width="100px;"/><br /><sub><b>Martin O'Reilly</b></sub>](https://github.com/martintoreilly)<br />[📖](https://github.com/alan-turing-institute/bocpdms/commits?author=martintoreilly "Documentation") [🔍](#fundingFinding-martintoreilly "Funding Finding") [👀](#review-martintoreilly "Reviewed Pull Requests") [📢](#talk-martintoreilly "Talks") | [<img src="https://avatars1.githubusercontent.com/u/21968230?v=4" width="100px;"/><br /><sub><b>JeremiasKnoblauch</b></sub>](https://github.com/JeremiasKnoblauch)<br />[💬](#question-JeremiasKnoblauch "Answering Questions") [💻](https://github.com/alan-turing-institute/bocpdms/commits?author=JeremiasKnoblauch "Code") [🎨](#design-JeremiasKnoblauch "Design") [📖](https://github.com/alan-turing-institute/bocpdms/commits?author=JeremiasKnoblauch "Documentation") [💡](#example-JeremiasKnoblauch "Examples") [🤔](#ideas-JeremiasKnoblauch "Ideas, Planning, & Feedback") |
-| :---: | :---: | :---: | :---: |
+| [<img src="https://avatars1.githubusercontent.com/u/21968230?v=4" width="100px;"/><br /><sub><b>Jeremias Knoblauch</b></sub>](https://github.com/JeremiasKnoblauch)<br />[💬](#question-JeremiasKnoblauch "Answering Questions") [💻](https://github.com/alan-turing-institute/bocpdms/commits?author=JeremiasKnoblauch "Code") [🎨](#design-JeremiasKnoblauch "Design") [📖](https://github.com/alan-turing-institute/bocpdms/commits?author=JeremiasKnoblauch "Documentation") [💡](#example-JeremiasKnoblauch "Examples") [🤔](#ideas-JeremiasKnoblauch "Ideas, Planning, & Feedback") | [<img src="https://www.turing.ac.uk/sites/default/files/styles/people/public/2018-06/theo-1.jpg?itok=UHDNPrGb" width="100px;"/><br /><sub><b>Theo Damoulas</b></sub>](https://www.turing.ac.uk/people/researchers/theo-damoulas)<br />[💬](#question-TheoDamoulas "Answering Questions") [🎨](#design-TheoDamoulas "Design") [💡](#example-TheoDamoulas "Examples") [🤔](#ideas-TheoDamoulas "Ideas, Planning, & Feedback") [🔍](#fundingFinding-TheoDamoulas "Funding Finding")| [<img src="https://avatars1.githubusercontent.com/u/25640708?v=4" width="100px;"/><br /><sub><b>Louise Bowler</b></sub>](https://github.com/LouiseABowler)<br />[💻](https://github.com/alan-turing-institute/bocpdms/commits?author=LouiseABowler "Code") [📖](https://github.com/alan-turing-institute/bocpdms/commits?author=LouiseABowler "Documentation") [📢](#talk-LouiseABowler "Talks") [⚠️](https://github.com/alan-turing-institute/bocpdms/commits?author=LouiseABowler "Tests") | [<img src="https://avatars3.githubusercontent.com/u/21147592?v=4" width="100px;"/><br /><sub><b>Martin O'Reilly</b></sub>](https://github.com/martintoreilly)<br />[📖](https://github.com/alan-turing-institute/bocpdms/commits?author=martintoreilly "Documentation") [🔍](#fundingFinding-martintoreilly "Funding Finding") [👀](#review-martintoreilly "Reviewed Pull Requests") [⚠️](https://github.com/alan-turing-institute/bocpdms/commits?author=martintoreilly "Tests") | [<img src="https://avatars1.githubusercontent.com/u/3626306?v=4" width="100px;"/><br /><sub><b>Kirstie Whitaker</b></sub>](https://whitakerlab.github.io)<br />[📖](https://github.com/alan-turing-institute/bocpdms/commits?author=KirstieJane "Documentation") [🔍](#fundingFinding-KirstieJane "Funding Finding") |
+| :---: | :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.

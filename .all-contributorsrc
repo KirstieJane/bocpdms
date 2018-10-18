@@ -10,13 +10,17 @@
   "commit": true,
   "contributors": [
     {
-      "login": "KirstieJane",
-      "name": "Kirstie Whitaker",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
-      "profile": "https://whitakerlab.github.io",
+      "login": "JeremiasKnoblauch",
+      "name": "Jeremias Knoblauch",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/21968230?v=4",
+      "profile": "https://github.com/JeremiasKnoblauch",
       "contributions": [
+        "question",
+        "code",
+        "design",
         "doc",
-        "fundingFinding"
+        "example",
+        "ideas"
       ]
     },
     {
@@ -44,17 +48,13 @@
       ]
     },
     {
-      "login": "JeremiasKnoblauch",
-      "name": "JeremiasKnoblauch",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/21968230?v=4",
-      "profile": "https://github.com/JeremiasKnoblauch",
+      "login": "KirstieJane",
+      "name": "Kirstie Whitaker",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3626306?v=4",
+      "profile": "https://whitakerlab.github.io",
       "contributions": [
-        "question",
-        "code",
-        "design",
         "doc",
-        "example",
-        "ideas"
+        "fundingFinding"
       ]
     }
   ]
