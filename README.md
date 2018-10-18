@@ -1,5 +1,5 @@
 # BOCPDMS: Bayesian On-line Changepoint Detection with Model Selection
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 This repository contains code from the _Bayesian On-line Changepoint Detection with Model Selection_ project.
 
@@ -39,8 +39,8 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars1.githubusercontent.com/u/3626306?v=4" width="100px;"/><br /><sub><b>Kirstie Whitaker</b></sub>](https://whitakerlab.github.io)<br />[📖](https://github.com/alan-turing-institute/bocpdms/commits?author=KirstieJane "Documentation") [🔍](#fundingFinding-KirstieJane "Funding Finding") | [<img src="https://avatars1.githubusercontent.com/u/25640708?v=4" width="100px;"/><br /><sub><b>Louise Bowler</b></sub>](https://github.com/LouiseABowler)<br />[💻](https://github.com/alan-turing-institute/bocpdms/commits?author=LouiseABowler "Code") [📖](https://github.com/alan-turing-institute/bocpdms/commits?author=LouiseABowler "Documentation") [📢](#talk-LouiseABowler "Talks") [⚠️](https://github.com/alan-turing-institute/bocpdms/commits?author=LouiseABowler "Tests") |
-| :---: | :---: |
+| [<img src="https://avatars1.githubusercontent.com/u/3626306?v=4" width="100px;"/><br /><sub><b>Kirstie Whitaker</b></sub>](https://whitakerlab.github.io)<br />[📖](https://github.com/alan-turing-institute/bocpdms/commits?author=KirstieJane "Documentation") [🔍](#fundingFinding-KirstieJane "Funding Finding") | [<img src="https://avatars1.githubusercontent.com/u/25640708?v=4" width="100px;"/><br /><sub><b>Louise Bowler</b></sub>](https://github.com/LouiseABowler)<br />[💻](https://github.com/alan-turing-institute/bocpdms/commits?author=LouiseABowler "Code") [📖](https://github.com/alan-turing-institute/bocpdms/commits?author=LouiseABowler "Documentation") [📢](#talk-LouiseABowler "Talks") [⚠️](https://github.com/alan-turing-institute/bocpdms/commits?author=LouiseABowler "Tests") | [<img src="https://avatars3.githubusercontent.com/u/21147592?v=4" width="100px;"/><br /><sub><b>Martin O'Reilly</b></sub>](https://github.com/martintoreilly)<br />[📖](https://github.com/alan-turing-institute/bocpdms/commits?author=martintoreilly "Documentation") [🔍](#fundingFinding-martintoreilly "Funding Finding") [👀](#review-martintoreilly "Reviewed Pull Requests") [📢](#talk-martintoreilly "Talks") |
+| :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
