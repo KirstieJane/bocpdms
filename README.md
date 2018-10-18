@@ -1,4 +1,5 @@
 # BOCPDMS: Bayesian On-line Changepoint Detection with Model Selection
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 This repository contains code from the _Bayesian On-line Changepoint Detection with Model Selection_ project.
 
@@ -31,3 +32,15 @@ You can keep track of our progress through the Issues tab, and find out more abo
 ## Installation Instructions
 
 _Installation and usage instructions will be available shortly..._
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars1.githubusercontent.com/u/3626306?v=4" width="100px;"/><br /><sub><b>Kirstie Whitaker</b></sub>](https://whitakerlab.github.io)<br />[📖](https://github.com/alan-turing-institute/bocpdms/commits?author=KirstieJane "Documentation") [🔍](#fundingFinding-KirstieJane "Funding Finding") |
+| :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
